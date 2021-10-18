@@ -3,9 +3,9 @@
  return (
   <div>
    <div className="f3  white center">
-    {'Eli, your scoore is:'}
+    {'Eli, your  current rank is:'}
    </div>
-   <div className="f1 white center">#5</div>
+   <div className="f1 white center">#1</div>
   </div>
  )
 }
